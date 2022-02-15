@@ -1,0 +1,10 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html,body,#__next {
+	font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica',
+	'Arial', sans-serif;
+	height: 100%;
+	width: 100%
+}
