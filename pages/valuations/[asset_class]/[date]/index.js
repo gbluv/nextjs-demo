@@ -7,5 +7,5 @@ export default () => {
   const {asset_class,date} = router.query;
   console.log(router.query);
 
-  return <div>Looking: {asset_class}: {date}</div>
+  return <div>Getting Data For {asset_class} on {date}</div>
 }
